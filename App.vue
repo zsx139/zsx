@@ -42,5 +42,6 @@
 		height: 30rpx !important;
 		color: #fff;
 		background: #fff;
+		
 	}
 </style>
